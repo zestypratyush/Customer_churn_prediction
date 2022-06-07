@@ -1,2 +1,2 @@
 # Customer_churn_prediction
-Applied data processing and CNN to predict customer churn of telecommunication company
+Applied data cleaning and ANN to predict customer churn of telecommunication company
